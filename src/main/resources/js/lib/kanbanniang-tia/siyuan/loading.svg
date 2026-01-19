@@ -1,15 +1,1 @@
-<svg width="160px" height="160px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"
-     preserveAspectRatio="xMidYMid" class="lds-double-ring" style="background: none;">
-    <circle cx="50" cy="50" fill="none"
-            stroke-linecap="round" r="20" stroke-width="2" stroke="#3b3e43"
-            stroke-dasharray="31.41592653589793 31.41592653589793" transform="rotate(111.924 50 50)">
-        <animateTransform attributeName="transform" type="rotate" calcMode="linear" values="0 50 50;360 50 50"
-                          keyTimes="0;1" dur="1.5s" begin="0s" repeatCount="indefinite"></animateTransform>
-    </circle>
-    <circle cx="50" cy="50" fill="none" stroke-linecap="round" r="16"
-            stroke-width="2" stroke="#d23f31" stroke-dasharray="23.561944901923447 23.561944901923447"
-            stroke-dashoffset="23.561944901923447" transform="rotate(-111.924 50 50)">
-        <animateTransform attributeName="transform" type="rotate" calcMode="linear" values="0 50 50;-360 50 50"
-                          keyTimes="0;1" dur="1.5s" begin="0s" repeatCount="indefinite"></animateTransform>
-    </circle>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" class="lds-double-ring" preserveAspectRatio="xMidYMid" viewBox="0 0 100 100" style="background:0 0"><circle cx="50" cy="50" r="20" fill="none" stroke="#3b3e43" stroke-dasharray="31.416 31.416" stroke-linecap="round" stroke-width="2" transform="rotate(111.924 50 50)"><animateTransform attributeName="transform" begin="0s" calcMode="linear" dur="1.5s" keyTimes="0;1" repeatCount="indefinite" type="rotate" values="0 50 50;360 50 50"/></circle><circle cx="50" cy="50" r="16" fill="none" stroke="#d23f31" stroke-dasharray="23.562 23.562" stroke-dashoffset="23.562" stroke-linecap="round" stroke-width="2" transform="rotate(-111.924 50 50)"><animateTransform attributeName="transform" begin="0s" calcMode="linear" dur="1.5s" keyTimes="0;1" repeatCount="indefinite" type="rotate" values="0 50 50;-360 50 50"/></circle></svg>
